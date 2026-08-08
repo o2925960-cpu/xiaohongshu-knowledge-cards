@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书知识图解"
+  short_description: "把概念与复杂素材策划成经核验、可发布的手绘故事型知识图文笔记"
+  default_prompt: "使用 $xiaohongshu-knowledge-cards 分析这份素材，先提出选题和页数方案，等我确认后再生成图文。"
