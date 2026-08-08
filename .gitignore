@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.env.*
+output/
+
+# Local visual references are intentionally excluded from the public repo.
+.agents/skills/xiaohongshu-knowledge-cards/assets/
